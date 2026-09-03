@@ -5,3 +5,6 @@ sd_x <- sd(x)
 
 mean_x
 sd_x
+
+summary_x <- summary(x)
+summary_x
