@@ -8,3 +8,6 @@ sd_x
 
 summary_x <- summary(x)
 summary_x
+
+median_x <- median(x)
+median_x
