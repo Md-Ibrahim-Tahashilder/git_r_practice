@@ -11,3 +11,6 @@ summary_x
 
 median_x <- median(x)
 median_x
+
+range_x <- range(x)
+range_x
